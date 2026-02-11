@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/Rhotomir-sc/semester-evidence-packs/main/assets/cover.png)
+![Cover](./assets/cover.png)
 
 # Fall 2025–2026 — Evidence Packs (SUBÜ Cybersecurity)
 
