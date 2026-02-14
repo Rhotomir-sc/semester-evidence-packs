@@ -1,4 +1,4 @@
-# <Course Name> — Evidence Pack (Fall 2025–2026)
+# Semester Capstone — Mini SOC Investigation Pack — Evidence Pack (Fall 2025–2026)
 
 ## Goal
 - <1–2 bullet>
