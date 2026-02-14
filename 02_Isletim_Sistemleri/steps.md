@@ -1,15 +1,20 @@
-# Steps — Operating Systems (Practice & Administration)
+# Steps — Operating Systems (Kali Linux)
 
-1) Open **Event Viewer** → Windows Logs → **Security**
-2) Filter current log:
-   - Event ID **4624** (successful logon)
-   - Event ID **4625** (failed logon)
-3) Pick a short time window (e.g., last 24 hours) and note:
-   - total counts
-   - any unusual pattern (many failures, same account, same source)
-4) Take screenshots:
-   - filter settings
-   - a 4624 event details (Logon Type visible)
-   - a 4625 event details (Failure reason visible)
-   - overview/counts view
-5) (Optional) Export filtered events (EVTX or CSV) and place in `evidence/artifacts/`.
+## Step 1 — System info
+- Run: `uname -a`, `lsb_release -a`
+- Screenshot: `evidence/screenshots/01_system_info.png`
+
+## Step 2 — Users & permissions
+- Run: `whoami`, `id`, `groups`
+- Screenshot: `evidence/screenshots/02_user_id.png`
+
+## Step 3 — Services & listening ports
+- Run: `systemctl status ssh` (or another service you used), `ss -tulpn`
+- Screenshot: `evidence/screenshots/03_services_ports.png`
+
+## Step 4 — Authentication log quick review
+- Run (example):
+  - `sudo tail -n 60 /var/log/auth.log`
+  - `sudo grep -i "failed\\|invalid" /var/log/auth.log | tail -n 30`
+- Screenshot: `evidence/screenshots/04_auth_log.png`
+- Artifact: save output to `evidence/artifacts/01_auth_log_summary.txt`
