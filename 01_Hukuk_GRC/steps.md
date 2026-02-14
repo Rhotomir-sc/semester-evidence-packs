@@ -7,4 +7,3 @@
 ## Step 2 — <title>
 - Action: <what you did>
 - Evidence: evidence/artifacts/01_<name>.txt
-
