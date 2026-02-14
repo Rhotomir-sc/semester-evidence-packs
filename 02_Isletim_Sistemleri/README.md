@@ -1,30 +1,29 @@
-# Operating Systems — Evidence Pack (Fall 2025–2026)
+# <Operating Systems (Kali Linux)> — Evidence Pack (Fall 2025–2026)
 
 ## Goal
-- Prove practical OS administration skills: users/groups, permissions, processes, logging, and basic hardening.
+- <1–2 bullet>
 
 ## Environment
-- OS: <Windows/Linux + version>
-- Tools: <Task Manager / PowerShell / Bash / journalctl / etc.>
+- OS: <Kali Linux / Windows / etc.>
+- Tools: <Wireshark, Bash, Python, etc.>
 
-## What I did
-1) Planned the scope → `plan.md`
-2) Executed steps → `steps.md`
-3) Collected evidence → `evidence/`
-4) Wrote results → `report.md`
+## Pack structure
+- `plan.md` — scope & success criteria
+- `steps.md` — step-by-step execution
+- `report.md` — results & reflections
+- `evidence/` — screenshots + artifacts
 
 ## Evidence Index
 ### Screenshots
-- evidence/screenshots/01_<...>.png — <1 line explanation>
-- evidence/screenshots/02_<...>.png — <1 line explanation>
+- evidence/screenshots/01_<name>.png — <1 line>
+- evidence/screenshots/02_<name>.png — <1 line>
 
 ### Artifacts
-- evidence/artifacts/01_<...>.txt — <1 line explanation>
-- evidence/artifacts/02_<...>.conf — <1 line explanation>
+- evidence/artifacts/01_<name>.txt — <1 line>
 
 ## Result / What I learned
-- <3–5 bullet: öğrendiklerin + ölçülebilir çıktılar>
+- <3–5 bullet>
 
 ## Quick verification
-- Open `steps.md` and follow the commands.
-- Check `evidence/` to confirm outputs match.
+- Follow `steps.md`
+- Check `evidence/` outputs
