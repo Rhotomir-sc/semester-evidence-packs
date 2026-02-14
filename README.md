@@ -12,7 +12,7 @@ For each course, I built a small mini-lab and documented it in a clear structure
 
 ## Evidence Packs (Semester 1)
 
-🖥️ 1) [Operating Systems (Practice & Administration)](./02_Isletim_Sistemleri/) — complete  
+🖥️ 1) [Operating Systems (Practice & Administration)](./02_Isletim_Sistemleri/) — in progress  
 🌐 2) [Computer Networks](./04_Bilgisayar_Aglari/) — in progress (notes + plan ready)  
 🛡️ 3) [Introduction to Cybersecurity](./03_Siber_Guvenlige_Giris/) — in progress (threat model draft)  
 ⌨️ 4) [Programming 1](./05_Programlama_1/) — next: build log parser + report  
