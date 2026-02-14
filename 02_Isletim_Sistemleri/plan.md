@@ -1,16 +1,19 @@
-# Lab Plan — Operating Systems (Practice & Administration)
+# Plan — Operating Systems (Kali Linux)
 
-## Goal
-Create a small evidence pack by reviewing Windows Security logs (login events) and documenting findings clearly.
-
-## What this proves
-I can collect OS-level evidence, filter relevant events, and summarize results in a short report.
-
-## Tools
-- Windows Event Viewer (Security log)
-- (Optional) PowerShell
-- Screenshot tool
+## Scope
+- Collect basic OS evidence on Kali Linux (system info, users, services, auth logs)
+- Produce a short, HR-friendly report + evidence set
 
 ## Evidence to collect
-- 4–6 screenshots (filters + selected events + summary view)
-- 1 small artifact (notes or exported event list)
+- Screenshots: 4–6
+  - system info
+  - user/group info
+  - service status
+  - auth log snippet
+- Artifacts: 1–2
+  - command outputs summary (txt)
+
+## Success criteria
+- Steps reference evidence filenames
+- Report has 3–5 bullet findings
+- Evidence files exist under `evidence/`
