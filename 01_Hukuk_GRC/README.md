@@ -1,4 +1,4 @@
-# <Information Systems Law (IT Law & Compliance)> — Evidence Pack (Fall 2025–2026)
+# Information Systems Law (IT Law & Compliance) — Evidence Pack (Fall 2025–2026)
 
 ## Goal
 - <1–2 bullet>
