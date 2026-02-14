@@ -14,4 +14,3 @@
 - README has an evidence index
 - Steps reference evidence filenames
 - Report summarizes outcomes clearly
-
