@@ -14,14 +14,14 @@ For each course, I built a small mini-lab and documented it in a clear structure
 ## Evidence Packs (Semester 1)
 
 1) [Information Systems Law (IT Law & Compliance)](./01_Hukuk_GRC/) — next: risk register + checklist
-2) 
-3) [Operating Systems (Practice & Administration)](./02_Isletim_Sistemleri/) — complete
-4) 
-5) [Introduction to Cybersecurity](./03_Siber_Guvenlige_Giris/) — in progress
-6) 
-7) [Computer Networks](./04_Bilgisayar_Aglari/) — in progress
-8) 
-9) [Programming 1](./05_Programlama_1/) — next: build log parser + report  
+ 
+2) [Operating Systems (Practice & Administration)](./02_Isletim_Sistemleri/) — complete
+ 
+3) [Introduction to Cybersecurity](./03_Siber_Guvenlige_Giris/) — in progress
+ 
+4) [Computer Networks](./04_Bilgisayar_Aglari/) — in progress
+ 
+5) [Programming 1](./05_Programlama_1/) — next: build log parser + report  
 
 ---
 
