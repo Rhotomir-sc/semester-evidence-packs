@@ -1,4 +1,4 @@
-# <Introduction to Cybersecurity> — Evidence Pack (Fall 2025–2026)
+# Introduction to Cybersecurity — Evidence Pack (Fall 2025–2026)
 
 ## Goal
 - <1–2 bullet>
