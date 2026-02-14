@@ -3,12 +3,11 @@
 ## Summary
 - <2–4 bullet>
 
-## What worked
+## Key findings
 - <...>
 
-## Challenges
+## What I learned
 - <...>
 
 ## Improvements (next time)
 - <...>
-
