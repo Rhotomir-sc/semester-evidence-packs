@@ -1,4 +1,4 @@
-# <Operating Systems (Kali Linux)> — Evidence Pack (Fall 2025–2026)
+# Operating Systems (Kali Linux) — Evidence Pack (Fall 2025–2026)
 
 ## Goal
 - <1–2 bullet>
