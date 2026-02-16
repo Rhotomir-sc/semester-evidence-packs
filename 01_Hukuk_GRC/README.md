@@ -9,18 +9,14 @@
 ## Environment
 
 - OS: <Kali Linux / Windows / etc.>
-  
 - Tools: <Wireshark, Bash, Python, etc.>
   
 
 ## Pack structure
 
 - `plan.md` — scope & success criteria
-  
 - `steps.md` — step-by-step execution
-  
 - `report.md` — results & reflections
-  
 - `evidence/` — screenshots + artifacts
   
 
@@ -29,7 +25,6 @@
 ### Screenshots
 
 - evidence/screenshots/01_<name>.png — <1 line>
-  
 - evidence/screenshots/02_<name>
 .png — <1 line>
 
