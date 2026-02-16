@@ -9,7 +9,7 @@
 - Compliance checklist: `evidence/artifacts/03_compliance_checklist.md`
 
 ## What I learned (HR-friendly)
-- (5–8 bullets: privacy mindset, evidence handling, internet actors, contract risks, IP awareness)
+- (5–8 bullets)
 
 ## Improvements (next time)
-- (2–5 bullets: what you’d refine, e.g., add a small scenario/case study)
+- (2–5 bullets)
