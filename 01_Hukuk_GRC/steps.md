@@ -1,9 +1,15 @@
-# Steps
+# Report — Information Systems Law (IT Law & Compliance)
 
-## Step 1 — <title>
-- Action: <what you did>
-- Evidence: evidence/screenshots/01_<name>.png
+## Summary
+- (Fill after completion)
 
-## Step 2 — <title>
-- Action: <what you did>
-- Evidence: evidence/artifacts/01_<name>.txt
+## Key outputs
+- Week map (15 weeks): `evidence/artifacts/01_week_map.md`
+- Risk register: `evidence/artifacts/02_risk_register.csv`
+- Compliance checklist: `evidence/artifacts/03_compliance_checklist.md`
+
+## What I learned
+- (3–8 bullets)
+
+## Improvements (next time)
+- (2–5 bullets)
