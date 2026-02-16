@@ -1,62 +1,58 @@
 # 15-Week Map — Information Systems Law (IT Law & Compliance)
-*(Derived from 11 lecture PDFs that cover the full 15-week scope.)*
+*Derived from 11 lecture PDFs that cover the full 15-week scope.*
 
-## Week 01 — Informatics & Law: intersection + subfields
+## Week 01 — Informatics & law intersection
 - Why legal regulation is needed in IT
 - Main areas: internet law, data protection, cybercrime, e-commerce
 
-## Week 02 — Internet basics: TCP/IP, IP/Port/Logs, internet actors
-- IP / port / timestamp and why logs matter
-- Roles and responsibilities in the internet ecosystem
+## Week 02 — Internet basics + actors
+- TCP/IP overview; IP/port/timestamp mindset
+- Internet actors and responsibilities
 
-## Week 03 — Personal data & KVKK: foundations and importance
+## Week 03 — Personal data & KVKK foundations
 - Personal data types and risks
-- Core concepts: controller/processor, consent, processing conditions
+- Controller/processor, consent, processing conditions (high-level)
 
-## Week 04 — KVKK legal framework in Türkiye
+## Week 04 — KVKK framework in Türkiye
 - Principles: purpose limitation, minimization, accuracy, security
-- Data subject rights and lawful processing
+- Data subject rights (access/correction/deletion etc.)
 
-## Week 05 — Cybercrimes (TCK 243–246): overview
-- Unauthorized access, interference, card misuse etc.
-- Why cybercrimes are hard: attribution + evidence
+## Week 05 — Cybercrimes overview
+- Unauthorized access / interference / misuse patterns
+- Why attribution + evidence is difficult
 
-## Week 06 — Digital evidence & CMK 134 (search/copy/seizure)
-- Integrity, hashing, chain-of-custody mindset
-- High-level legal process for digital evidence
+## Week 06 — Digital evidence & CMK 134 concept
+- Integrity mindset (hash + chain-of-custody)
+- Search/copy/seizure high-level workflow
 
-## Week 07 — Law 5651: content & access regulation
+## Week 07 — Law 5651 overview
 - Provider roles (content/hosting/access)
-- Retention and takedown/access-blocking logic
+- Retention + takedown/access-blocking logic (overview)
 
 ## Week 08 — Electronic contracts & e-signature
-- E-contract basics, proof/records
-- 5070 e-signature overview
+- E-contract proof mindset (records/logs)
+- E-signature basics (5070 overview)
 
 ## Week 09 — Online ads & unfair competition
-- Digital advertising risks
-- Misleading claims, spam marketing, competition rules
+- Misleading ads, spam marketing risks
+- Competition and consumer protection mindset
 
-## Week 10 — Intellectual property online (copyright / FSEK)
-- What IP is and common infringements online
-- Basic protection logic and typical disputes
+## Week 10 — Copyright/IP online
+- Common infringement patterns online
+- Reporting/escalation + evidence mindset
 
-## Week 11 — Industrial property intro (Sınai mülkiyet)
-- What industrial property covers and why it matters online
-- Institutions (e.g., TÜRKPATENT) and registration logic
+## Week 11 — Industrial property (general)
+- Industrial rights in the digital era and why it matters online
 
-## Week 12 — Trademarks online (Marka) + domain/brand abuse
-- Trademark protection basics
-- Online infringement patterns: domain abuse, counterfeit listings, brand misuse
+## Week 12 — Trademarks online
+- Trademark basics + typical online abuse (impersonation/domain abuse)
 
-## Week 13 — Patents & utility models online
-- Patent / utility model basics
-- Infringement and practical risk awareness (product + documentation)
+## Week 13 — Patents / utility models (overview)
+- Practical risk awareness + documentation mindset
 
-## Week 14 — Industrial designs online (Tasarım)
-- Design protection basics
-- Copying, imitation products, marketplace risks
+## Week 14 — Industrial designs online
+- Imitation/copy risks in marketplaces
 
-## Week 15 — Enforcement + unfair competition wrap-up
-- Practical “what to do” when infringement is detected
-- Evidence mindset + reporting/escalation + summary
+## Week 15 — Enforcement + wrap-up
+- What to do when infringement is detected
+- Evidence-first approach + summary
