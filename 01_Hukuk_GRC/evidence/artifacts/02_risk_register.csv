@@ -1,10 +1,10 @@
 Risk_ID,Area,Risk_Description,Impact,Control / Mitigation,Evidence_Artifact
 R-01,KVKK,Personal data processed without lawful basis or transparency,High,Define purpose+legal basis; provide notices; limit access,03_compliance_checklist.md
 R-02,KVKK,Special category data handled without extra safeguards,High,Classify data; stricter access controls; auditing,03_compliance_checklist.md
-R-03,Logging & Attribution,Missing IP+port+timestamp logs breaks attribution and IR,Medium,Standardize logging; time sync; retention policy,03_compliance_checklist.md
-R-04,5651 Compliance,Takedown / access-blocking decisions not handled on time,High,Assign owner; runbook; escalation path,03_compliance_checklist.md
-R-05,Cybercrime (TCK),Unauthorized access/misuse leads to legal exposure,High,Least privilege; MFA; monitoring; training,03_compliance_checklist.md
-R-06,Digital Evidence (CMK 134),Evidence integrity breaks due to no hash/chain-of-custody,High,Hash verification; controlled copying; documentation,03_compliance_checklist.md
+R-03,Logging & Attribution,Missing IP+port+timestamp logs breaks attribution and incident response,Medium,Standardize logging; time sync; retention policy,03_compliance_checklist.md
+R-04,5651 Compliance,Takedown/access-blocking workflow not handled on time,High,Assign owner; runbook; escalation path,03_compliance_checklist.md
+R-05,Cybercrime risk,Unauthorized access/misuse leads to legal exposure,High,Least privilege; MFA; monitoring; training,03_compliance_checklist.md
+R-06,Digital Evidence,Integrity breaks without hash/chain-of-custody,High,Hash verification; controlled copying; documentation,03_compliance_checklist.md
 R-07,E-Contracts,Weak proof of consent causes disputes,Medium,Store consent logs; versioning; clear UX,03_compliance_checklist.md
 R-08,Ads & Competition,Misleading ads/spam creates legal & brand risk,Medium,Approval workflow; consent-based marketing; claim verification,03_compliance_checklist.md
-R-09,IP / Industrial Rights,Using unlicensed content or infringing trademarks/patents/designs,High,License tracking; brand rules; takedown process,03_compliance_checklist.md
+R-09,IP/Industrial Rights,Unlicensed use or infringement risk (brand/design),High,License tracking; brand rules; reporting process,03_compliance_checklist.md
