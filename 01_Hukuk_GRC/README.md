@@ -5,7 +5,7 @@
 - Produce a small “mini audit pack” as proof (risk register + checklist).
 
 ## Environment
-- Tools: Markdown, spreadsheet (risk register), basic diagrams (optional)
+- Tools: Markdown, spreadsheet (risk register)
 - Note: Lecture PDFs are not uploaded (copyright-safe).
 
 ## Pack structure
@@ -17,7 +17,7 @@
 ## Evidence Index
 
 ### Artifacts
-- `evidence/artifacts/01_week_map.md` — 15-week course map (from 11 PDFs)
+- `evidence/artifacts/01_week_map.md` — 15-week course map (derived from 11 PDFs)
 - `evidence/artifacts/02_risk_register.csv` — risk register (export)
 - `evidence/artifacts/03_compliance_checklist.md` — compliance checklist
 
