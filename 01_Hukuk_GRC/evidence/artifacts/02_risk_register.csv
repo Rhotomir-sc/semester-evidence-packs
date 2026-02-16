@@ -1,1 +1,12 @@
+Risk_ID,Area,Risk_Description,Impact,Control / Mitigation,Evidence_Artifact
+R-01,KVKK,Personal data processed without lawful basis or transparency,High,Define purpose+legal basis; provide notices; limit access,03_compliance_checklist.md
+R-02,KVKK,Special category data handled without extra safeguards,High,Classify data; apply stricter access controls; audit handling,03_compliance_checklist.md
+R-03,Logging & Attribution,Missing IP+port+timestamp logs breaks attribution and incident response,Medium,Standardize logging; time sync; retention policy,02_risk_register.csv
+R-04,5651 Compliance,Takedown / access-blocking decisions not handled on time,High,Assign owner; runbook; escalation path,03_compliance_checklist.md
+R-05,Cybercrime (TCK),Unauthorized access or misuse of systems leads to criminal exposure,High,Least privilege; MFA; monitoring; security training,03_compliance_checklist.md
+R-06,Digital Evidence (CMK 134),Evidence integrity breaks due to no hashing/chain-of-custody,High,Hash verification; controlled copying; documentation,03_compliance_checklist.md
+R-07,E-Contracts,Weak proof of consent (click-wrap) causes disputes,Medium,Store consent logs; clear UI; versioning,03_compliance_checklist.md
+R-08,Consumer/E-commerce,Missing withdrawal/info obligations increases disputes,Medium,Pre-contract info checklist; clear refund flow,03_compliance_checklist.md
+R-09,Ads & Unfair Competition,Misleading ads or spam marketing creates legal/brand risk,Medium,Approval workflow; consent-based marketing; ad claims verification,03_compliance_checklist.md
+R-10,IP / Industrial Rights,Using unlicensed content or infringing trademarks/patents,High,License tracking; brand usage rules; takedown process,03_compliance_checklist.md
 
