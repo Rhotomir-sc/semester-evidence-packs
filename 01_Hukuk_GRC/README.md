@@ -1,42 +1,33 @@
 # Information Systems Law (IT Law & Compliance) — Evidence Pack (Fall 2025–2026)
 
-
 ## Goal
-
-- <1–2 bullet>
-  
+- Show legal/compliance awareness for cybersecurity work (HR-friendly).
+- Produce a small “mini audit pack” as proof (risk register + checklist).
 
 ## Environment
-
-- OS: <Kali Linux / Windows / etc.>
-- Tools: <Wireshark, Bash, Python, etc.>
-  
+- Tools: Markdown, spreadsheet (risk register), basic diagrams (optional)
 
 ## Pack structure
-
 - `plan.md` — scope & success criteria
-- `steps.md` — step-by-step execution
+- `steps.md` — how I built the pack (step-by-step)
 - `report.md` — results & reflections
 - `evidence/` — screenshots + artifacts
-  
 
 ## Evidence Index
 
 ### Screenshots
-
-- evidence/screenshots/01_<name>.png — <1 line>
-- evidence/screenshots/02_<name>
-.png — <1 line>
+- evidence/screenshots/01_week_map.png — 15-week topic map preview
+- evidence/screenshots/02_risk_register.png — risk register snapshot
+- evidence/screenshots/03_checklist.png — compliance checklist snapshot
 
 ### Artifacts
-
-- evidence/artifacts/01_<name>.txt — <1 line>
+- evidence/artifacts/01_week_map.md — week-by-week outline
+- evidence/artifacts/02_risk_register.csv — risk register (export)
+- evidence/artifacts/03_compliance_checklist.md — checklist
 
 ## Result / What I learned
-
-- <3–5 bullet>
+- (Fill after completion)
 
 ## Quick verification
-
-- Follow `steps.md`
-- Check `evidence/` outputs
+- Open artifacts under `evidence/artifacts/`
+- Compare with screenshots under `evidence/screenshots/`
