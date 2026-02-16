@@ -1,16 +1,19 @@
 # Plan — Information Systems Law (IT Law & Compliance)
 
 ## Scope
-- Extract a clear 15-week topic map from lecture materials.
-- Build a mini-lab style “compliance audit pack”:
-  - Risk register
-  - Compliance checklist
+- Produce a clear 15-week topic map from the course materials.
+- Convert the topics into a practical mini-pack:
+  1) Risk register
+  2) Compliance checklist
+
+## Out of scope
+- Detailed legal advice or case-law deep dive (this is an evidence/portfolio pack).
 
 ## Evidence to collect
-- Screenshots: 3–5 (week map + register + checklist)
-- Artifacts: 3 files (md/csv/md)
+- Artifacts: 3 files (week map + risk register + checklist)
+- Screenshots: 3 images (one per artifact)
 
 ## Success criteria
-- README evidence index is clickable and accurate
-- Steps reference artifact filenames
-- Report summarizes outcomes in 5–8 bullets
+- README links to correct artifact filenames.
+- Steps reference exact evidence filenames.
+- Report explains “how this helps cybersecurity work” in concrete bullets.
