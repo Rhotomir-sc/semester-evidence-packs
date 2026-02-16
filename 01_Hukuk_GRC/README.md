@@ -1,33 +1,36 @@
 # Information Systems Law (IT Law & Compliance) — Evidence Pack (Fall 2025–2026)
 
 ## Goal
-- Show legal/compliance awareness for cybersecurity work (HR-friendly).
-- Produce a small “mini audit pack” as proof (risk register + checklist).
+- Build a practical, HR-friendly “mini audit pack” based on the course topics.
+- Show legal awareness that supports cybersecurity work: privacy, cybercrime, evidence, e-contracts, IP.
 
 ## Environment
-- Tools: Markdown, spreadsheet (risk register), basic diagrams (optional)
+- Documentation: Markdown
+- Artifacts: CSV / checklist
+- (No copyrighted lecture PDFs are uploaded)
 
 ## Pack structure
 - `plan.md` — scope & success criteria
-- `steps.md` — how I built the pack (step-by-step)
+- `steps.md` — step-by-step build log
 - `report.md` — results & reflections
 - `evidence/` — screenshots + artifacts
 
 ## Evidence Index
 
-### Screenshots
-- evidence/screenshots/01_week_map.png — 15-week topic map preview
-- evidence/screenshots/02_risk_register.png — risk register snapshot
-- evidence/screenshots/03_checklist.png — compliance checklist snapshot
+### Artifacts (core deliverables)
+- `evidence/artifacts/01_week_map.md` — 15-week course map (topics + key points)
+- `evidence/artifacts/02_risk_register.csv` — risk register (risks → controls → evidence)
+- `evidence/artifacts/03_compliance_checklist.md` — compliance checklist (what to verify + proof)
 
-### Artifacts
-- evidence/artifacts/01_week_map.md — week-by-week outline
-- evidence/artifacts/02_risk_register.csv — risk register (export)
-- evidence/artifacts/03_compliance_checklist.md — checklist
+### Screenshots (proof)
+- `evidence/screenshots/01_week_map.png` — preview of the week map
+- `evidence/screenshots/02_risk_register.png` — CSV opened (table view)
+- `evidence/screenshots/03_checklist.png` — checklist preview
 
 ## Result / What I learned
-- (Fill after completion)
+- (Fill after completion in `report.md`)
 
 ## Quick verification
-- Open artifacts under `evidence/artifacts/`
-- Compare with screenshots under `evidence/screenshots/`
+- Open the artifacts under `evidence/artifacts/`
+- Check screenshots under `evidence/screenshots/`
+- Follow `steps.md` to reproduce the pack
