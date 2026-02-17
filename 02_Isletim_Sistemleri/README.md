@@ -1,46 +1,16 @@
-# Operating Systems (Kali Linux) — Evidence Pack (Fall 2025–2026)
+# Operating Systems (Kali Linux) — Evidence Pack
 
-
-## Goal
-
-- <1–2 bullet>
-  
-
-## Environment
-
-- OS: <Kali Linux / Windows / etc.>
-  
-- Tools: <Wireshark, Bash, Python, etc.>
-  
-
-## Pack structure
-
-- `plan.md` — scope & success criteria
-  
-- `steps.md` — step-by-step execution
-  
-- `report.md` — results & reflections
-  
-- `evidence/` — screenshots + artifacts
-  
+## Mini-Lab
+**Kali Baseline Hardening + Log Audit Pack**
 
 ## Evidence Index
 
-### Screenshots
-
-- evidence/screenshots/01_<name>.png — <1 line>
-  
-- evidence/screenshots/02_<name>
-.png — <1 line>
-
 ### Artifacts
+- `evidence/artifacts/01_baseline_commands.md`
+- `evidence/artifacts/02_baseline_check.sh`
+- `evidence/artifacts/03_log_audit_notes.md`
 
-- evidence/artifacts/01_<name>.txt — <1 line>
-
-## Result / What I learned
-
-- <3–5 bullet>
-
-## Quick verification
-
-- Follow `steps.md`
+### Screenshots
+- `evidence/screenshots/01_users_sudo.png`
+- `evidence/screenshots/02_services_ports.png`
+- `evidence/screenshots/03_logs.png`
