@@ -23,9 +23,11 @@
 - `evidence/artifacts/03_compliance_checklist.md` — compliance checklist
 
 ### Screenshots
-- `evidence/screenshots/01_week_map.png`
+- `evidence/screenshots/01a_week_map_01-08.png`
+- `evidence/screenshots/01b_week_map_09-15.png`
 - `evidence/screenshots/02_risk_register.png`
 - `evidence/screenshots/03_checklist.png`
+
 
 ## Quick verification
 - Open artifacts under `evidence/artifacts/`
