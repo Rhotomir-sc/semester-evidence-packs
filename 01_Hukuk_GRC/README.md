@@ -26,7 +26,8 @@
 - `evidence/screenshots/01a_week_map_01-08.png`
 - `evidence/screenshots/01b_week_map_09-15.png`
 - `evidence/screenshots/02_risk_register.png`
-- `evidence/screenshots/03_checklist.png`
+- `evidence/screenshots/03a_checklist_A-D.png`
+- `evidence/screenshots/03b_checklist_E-H.png`
 
 
 ## Quick verification
