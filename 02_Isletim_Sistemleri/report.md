@@ -1,14 +1,15 @@
-# Report — Operating Systems (Kali Linux)
+# Report — Kali Baseline Hardening + Log Audit
 
 ## Summary
-- <2–4 bullet>
+- (Fill after collecting evidence)
 
-## Key findings
-- <3–5 bullet, based on your logs/services>
+## Key outputs
+- `evidence/artifacts/01_baseline_commands.md`
+- `evidence/artifacts/02_baseline_check.sh`
+- `evidence/artifacts/03_log_audit_notes.md`
 
-## What I learned
-- <3–5 bullet>
+## What I learned (HR-friendly)
+- (Fill after collecting evidence)
 
-## Evidence
-- Screenshots: `evidence/screenshots/`
-- Artifacts: `evidence/artifacts/`
+## Improvements (next time)
+- (Fill after collecting evidence)
