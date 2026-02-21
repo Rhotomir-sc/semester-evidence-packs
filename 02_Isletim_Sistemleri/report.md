@@ -1,15 +1,13 @@
-# Report — Kali Baseline Hardening + Log Audit
+# Report — Kali Baseline + Log Audit
 
 ## Summary
-- (Fill after collecting evidence)
+- (fill)
 
-## Key outputs
-- `evidence/artifacts/01_baseline_commands.md`
-- `evidence/artifacts/02_baseline_check.sh`
-- `evidence/artifacts/03_log_audit_notes.md`
+## Evidence
+- (fill)
 
 ## What I learned (HR-friendly)
-- (Fill after collecting evidence)
+- (fill)
 
-## Improvements (next time)
-- (Fill after collecting evidence)
+## Improvements
+- (fill)
