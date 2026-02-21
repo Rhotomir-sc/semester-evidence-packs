@@ -1,17 +1,7 @@
-# Steps — Kali Baseline Hardening + Log Audit
+# Steps — Kali Baseline + Log Audit
 
-## Step 1 — Baseline checks
-- Users/sudo identity checks
-- Screenshot: `evidence/screenshots/01_users_sudo.png`
-
-## Step 2 — Attack surface snapshot
-- Running services and open ports
-- Screenshot: `evidence/screenshots/02_services_ports.png`
-
-## Step 3 — Log audit
-- Auth logs + high priority journal messages
-- Screenshot: `evidence/screenshots/03_logs.png`
-
-## Step 4 — Script
-- Create a small script to collect baseline outputs
-- Artifact: `evidence/artifacts/02_baseline_check.sh`
+1) Run identity/sudo checks → screenshot
+2) Review running services & listening ports → screenshot
+3) Review auth log + high priority journal → screenshot
+4) Save a small baseline script + findings note
+5) Upload evidence and write report
