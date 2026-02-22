@@ -1,14 +1,13 @@
-# Report
+# Report — Threat Model + Risk Register
 
 ## Summary
-- <2–4 bullet>
+- (fill)
 
-## What worked
-- <...>
+## Evidence
+- (fill)
 
-## Challenges
-- <...>
+## What I learned (HR-friendly)
+- (fill)
 
-## Improvements (next time)
-- <...>
-
+## Improvements
+- (fill)
