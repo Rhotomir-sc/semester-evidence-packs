@@ -1,46 +1,23 @@
-# Introduction to Cybersecurity — Evidence Pack (Fall 2025–2026)
+# Intro to Cybersecurity — Evidence Pack
 
+## Mini-Lab
+**Threat Modeling + Risk Register (STRIDE-lite) Evidence Pack**
 
-## Goal
-
-- <1–2 bullet>
-  
-
-## Environment
-
-- OS: <Kali Linux / Windows / etc.>
-  
-- Tools: <Wireshark, Bash, Python, etc.>
-  
-
-## Pack structure
-
-- `plan.md` — scope & success criteria
-  
-- `steps.md` — step-by-step execution
-  
-- `report.md` — results & reflections
-  
-- `evidence/` — screenshots + artifacts
-  
+## Evidence (Problem → Action → Evidence → Result)
+- **Problem:** Security risks are unclear without a structured model.
+- **Action:** Modeled a simple system, identified threats, mapped mitigations, and defined evidence.
+- **Evidence:** Threat model + risk register + control checklist.
+- **Result:** Reproducible, audit-friendly security reasoning pack.
 
 ## Evidence Index
 
-### Screenshots
-
-- evidence/screenshots/01_<name>.png — <1 line>
-  
-- evidence/screenshots/02_<name>
-.png — <1 line>
-
 ### Artifacts
+- `evidence/artifacts/lab01_system_overview.md`
+- `evidence/artifacts/lab01_threat_model.md`
+- `evidence/artifacts/lab01_risk_register.csv`
+- `evidence/artifacts/lab01_controls_checklist.md`
 
-- evidence/artifacts/01_<name>.txt — <1 line>
-
-## Result / What I learned
-
-- <3–5 bullet>
-
-## Quick verification
-
-- Follow `steps.md`
+### Screenshots
+- `evidence/screenshots/lab01_threat_model.png`
+- `evidence/screenshots/lab01_risk_register.png`
+- `evidence/screenshots/lab01_controls_checklist.png`
