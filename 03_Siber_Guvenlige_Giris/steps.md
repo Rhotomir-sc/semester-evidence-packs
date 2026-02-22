@@ -1,10 +1,7 @@
-# Steps
+# Steps — Threat Model + Risk Register
 
-## Step 1 — <title>
-- Action: <what you did>
-- Evidence: evidence/screenshots/01_<name>.png
-
-## Step 2 — <title>
-- Action: <what you did>
-- Evidence: evidence/artifacts/01_<name>.txt
-
+1) Define the system scope (assets, actors, trust boundaries)
+2) Identify threats (STRIDE-lite)
+3) Build a risk register (impact, likelihood, mitigation, evidence)
+4) Convert mitigations into a checklist
+5) Add screenshots + finalize report
