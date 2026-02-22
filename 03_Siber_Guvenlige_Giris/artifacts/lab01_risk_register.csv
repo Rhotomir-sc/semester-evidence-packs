@@ -1,0 +1,6 @@
+Risk_ID,Threat,Asset,Impact,Likelihood,Mitigation,Evidence
+R-01,Spoofing,Reputation,High,Medium,Consistent branding + pinned repos + verified links,Screenshot of pinned repos + profile links
+R-02,Tampering,Repo integrity,High,Low,Branch protection + review PRs + signed commits (optional),Repo settings screenshot / policy note
+R-03,Info Disclosure,Personal data,High,Medium,Sanitize screenshots/logs + avoid uploading raw PDFs,Checklist + sample sanitized screenshot
+R-04,Elevation,GitHub account,High,Medium,2FA + unique password + revoke old tokens,2FA enabled screenshot (blur sensitive)
+R-05,DoS/Lockout,Account access,Medium,Low,Backup codes + recovery email + device hygiene,Checklist entry + recovery note
