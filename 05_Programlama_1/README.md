@@ -1,21 +1,21 @@
-# Programming 1 — Evidence Pack
+# Programming 1 (C) — Evidence Pack
 
 ## Mini-Lab
-**Log Parser + IOC Detector (Python)**
+**C Log Analyzer → CSV Report (File I/O + Struct + Parsing)**
 
 ## Evidence (Problem → Action → Evidence → Result)
-- **Problem:** Raw logs are noisy; indicators of compromise (IOCs) can be missed without automation.
-- **Action:** Implemented a small Python parser that extracts key fields and flags suspicious patterns.
-- **Evidence:** Script + sample log + output + screenshots.
-- **Result:** Repeatable, HR-friendly proof of scripting + security thinking.
+- **Problem:** Raw log lines are hard to review manually.
+- **Action:** Implemented a C program that parses logs and generates a CSV summary.
+- **Evidence:** C source + sample log + generated CSV + run screenshots.
+- **Result:** Repeatable proof of C fundamentals + reporting mindset.
 
 ## Evidence Index
 ### Artifacts
-- `evidence/artifacts/lab01_log_parser.py`
+- `evidence/artifacts/lab01_log_analyzer.c`
 - `evidence/artifacts/lab01_sample.log`
-- `evidence/artifacts/lab01_output.txt`
+- `evidence/artifacts/lab01_report.csv`
 
 ### Screenshots
-- `evidence/screenshots/lab01_run_output.png`
-- `evidence/screenshots/lab01_ioc_hits.png`
+- `evidence/screenshots/lab01_compile_run.png`
+- `evidence/screenshots/lab01_csv_preview.png`
 - `evidence/screenshots/lab01_repo_structure.png`
