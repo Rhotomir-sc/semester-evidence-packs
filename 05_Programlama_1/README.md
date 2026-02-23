@@ -16,6 +16,6 @@
 - `evidence/artifacts/lab01_report.csv`
 
 ### Screenshots
-- `evidence/screenshots/lab01_compile_run.png`
+- `evidence/screenshots/lab01_compile.png`
+- `evidence/screenshots/lab01_run_output.png`
 - `evidence/screenshots/lab01_csv_preview.png`
-- `evidence/screenshots/lab01_repo_structure.png`
