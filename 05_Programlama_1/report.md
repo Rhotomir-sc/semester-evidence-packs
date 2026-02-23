@@ -1,4 +1,4 @@
-# Report — Log Parser + IOC Detector
+# Report — C Log Analyzer → CSV
 
 ## Summary
 - (fill)
