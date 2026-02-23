@@ -1,10 +1,7 @@
-# Steps
+# Steps — Log Parser + IOC Detector
 
-## Step 1 — <title>
-- Action: <what you did>
-- Evidence: evidence/screenshots/01_<name>.png
-
-## Step 2 — <title>
-- Action: <what you did>
-- Evidence: evidence/artifacts/01_<name>.txt
-
+1) Define a simple log format and create sample data
+2) Implement a parser (extract time/user/ip/action/status)
+3) Detect IOCs (failed logins burst, suspicious IPs, sensitive commands)
+4) Produce a clean summary output
+5) Package evidence and write report
