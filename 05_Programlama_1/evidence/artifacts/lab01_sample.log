@@ -5,6 +5,6 @@
 2026-02-23T19:03:41Z user=guest ip=203.0.113.77 action=login status=fail
 2026-02-23T19:03:55Z user=guest ip=203.0.113.77 action=login status=fail
 2026-02-23T19:04:11Z user=guest ip=203.0.113.77 action=login status=fail
-2026-02-23T19:04:30Z user=guest ip=203.0.113.77 action=sudo_cmd cmd="cat /etc/shadow" status=blocked
-2026-02-23T19:05:02Z user=aykan ip=10.0.2.15 action=sudo_cmd cmd="apt update" status=ok
+2026-02-23T19:04:30Z user=guest ip=203.0.113.77 action=sudo_cmd status=blocked
+2026-02-23T19:05:02Z user=aykan ip=10.0.2.15 action=sudo_cmd status=ok
 2026-02-23T19:06:22Z user=unknown ip=198.51.100.23 action=scan status=detected
