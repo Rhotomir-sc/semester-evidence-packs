@@ -1,17 +1,10 @@
-# Plan
+# Plan — Semester 1 Capstone
 
 ## Scope
-- <...>
-
-## Out of scope
-- <...>
-
-## Evidence to collect
-- Screenshots: 4–6
-- Artifacts: 1–3
+- Create an executive summary that links to each course evidence pack.
+- Highlight top 3 evidence items + 1 bonus automation item.
 
 ## Success criteria
-- README has an evidence index
-- Steps reference evidence filenames
-- Report summarizes outcomes clearly
-
+- HR can understand the portfolio in <30 seconds.
+- Links work; filenames match; “Top 3 evidence” is obvious.
+- No copyrighted PDFs stored; only summaries + outputs.
