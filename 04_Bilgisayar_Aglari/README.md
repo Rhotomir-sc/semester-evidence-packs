@@ -11,10 +11,8 @@
 
 ## Evidence Index
 ### Artifacts
-- `evidence/artifacts/lab01_capture_plan.md`
-- `evidence/artifacts/lab01_filters_and_findings.md`
-- `evidence/artifacts/lab01_capture_notes.md`
 - `evidence/artifacts/lab01_baseline.pcapng`
+- `evidence/artifacts/lab01_filters_and_findings.md`
 
 ### Screenshots
 - `evidence/screenshots/lab01_capture_overview.png`
