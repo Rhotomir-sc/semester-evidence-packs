@@ -13,6 +13,7 @@
 ### Artifacts
 - `evidence/artifacts/lab01_baseline.pcapng`
 - `evidence/artifacts/lab01_filters_and_findings.md`
+- PCAP is large; use View raw to download.
 
 ### Screenshots
 - `evidence/screenshots/lab01_capture_overview.png`
