@@ -1,1 +1,5 @@
+# Ignore compiled binary output (Linux)
 evidence/artifacts/lab01_log_analyzer
+
+# Ignore compiled binary output (Windows)
+evidence/artifacts/lab01_log_analyzer.exe
