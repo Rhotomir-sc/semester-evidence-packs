@@ -1,46 +1,22 @@
-# Computer Networks — Evidence Pack (Fall 2025–2026)
+# Computer Networks — Evidence Pack
 
+## Mini-Lab
+**Wireshark Baseline + DNS/TLS Evidence Pack**
 
-## Goal
-
-- <1–2 bullet>
-  
-
-## Environment
-
-- OS: <Kali Linux / Windows / etc.>
-  
-- Tools: <Wireshark, Bash, Python, etc.>
-  
-
-## Pack structure
-
-- `plan.md` — scope & success criteria
-  
-- `steps.md` — step-by-step execution
-  
-- `report.md` — results & reflections
-  
-- `evidence/` — screenshots + artifacts
-  
+## Evidence (Problem → Action → Evidence → Result)
+- **Problem:** Baseline network traffic is unknown; protocol visibility is unverified.
+- **Action:** Captured a short baseline PCAP and validated DNS queries + TLS handshakes via filters.
+- **Evidence:** PCAP + screenshots + documented filters/findings.
+- **Result:** Repeatable baseline pack for future anomaly comparison.
 
 ## Evidence Index
+### Artifacts
+- `evidence/artifacts/lab01_capture_plan.md`
+- `evidence/artifacts/lab01_filters_and_findings.md`
+- `evidence/artifacts/lab01_capture_notes.md`
+- `evidence/artifacts/lab01_baseline.pcapng`
 
 ### Screenshots
-
-- evidence/screenshots/01_<name>.png — <1 line>
-  
-- evidence/screenshots/02_<name>
-.png — <1 line>
-
-### Artifacts
-
-- evidence/artifacts/01_<name>.txt — <1 line>
-
-## Result / What I learned
-
-- <3–5 bullet>
-
-## Quick verification
-
-- Follow `steps.md`
+- `evidence/screenshots/lab01_capture_overview.png`
+- `evidence/screenshots/lab01_dns_filter.png`
+- `evidence/screenshots/lab01_tls_handshake.png`
