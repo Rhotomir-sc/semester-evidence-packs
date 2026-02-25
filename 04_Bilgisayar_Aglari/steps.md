@@ -1,10 +1,7 @@
-# Steps
+# Steps — Wireshark Baseline
 
-## Step 1 — <title>
-- Action: <what you did>
-- Evidence: evidence/screenshots/01_<name>.png
-
-## Step 2 — <title>
-- Action: <what you did>
-- Evidence: evidence/artifacts/01_<name>.txt
-
+1) Capture 3–5 minutes while browsing 2–3 HTTPS websites
+2) Save as `lab01_baseline.pcapng`
+3) Apply filters: `dns`, `tls.handshake`
+4) Take 3 screenshots (overview, DNS, TLS)
+5) Write findings + commit evidence
