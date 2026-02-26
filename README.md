@@ -2,6 +2,9 @@
 
 # Fall 2025–2026 — Evidence Packs (SUBÜ Cybersecurity)
 
+## ⭐ Capstone (Start here)
+[Mini SOC Investigation Pack](./99_Semester_Capstone/)
+
 This repository contains my practical evidence packs from the Fall 2025–2026 semester in the Cybersecurity program at SUBÜ (Associate Degree).
 
 For each course, I built a small mini-lab and documented it in a clear structure:
