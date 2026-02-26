@@ -1,50 +1,27 @@
-# Semester 1 Capstone — Security Evidence Portfolio (Executive Summary)
+# Semester Capstone — Mini SOC Investigation Pack (Fall 2025–2026)
 
 ## Goal
-Present Semester 1 outcomes as an HR-friendly evidence portfolio:
-- **Compliance mindset (GRC/IT Law)**
-- **Host baseline & audit mindset (Linux/Kali)**
-- **Network visibility (Wireshark)**
-- **Automation proof (C mini tool)**
+Combine Semester 1 evidence packs into a single HR-friendly “incident-style” narrative:
+OS baseline + network observations + threat/risk thinking + compliance mindset + a small automation output.
 
-## What I delivered (Problem → Action → Evidence → Result)
-- **Problem:** Learning is hard to verify without structured proof.
-- **Action:** Built evidence packs per course (plan → steps → report → artifacts → screenshots).
-- **Evidence:** Linked packs + reproducible outputs (PCAP, CSV, checklists).
-- **Result:** A compact portfolio that demonstrates structured, job-aligned thinking.
+## Start here (Top 3 Evidence)
+1) ⚖️ IT Law / GRC pack: `../01_Hukuk_GRC/`
+2) 🐧 Operating Systems pack: `../02_Isletim_Sistemleri/`
+3) 🌐 Computer Networks pack: `../04_Bilgisayar_Aglari/`
 
----
+**Bonus:** ⌨️ Programming pack: `../05_Programlama_1/`
 
-## Top 3 Evidence (HR picks)
-1) **IT Law / GRC Mini Audit Pack**  
-   `../01_Hukuk_GRC/`  
-   - Week map + risk register + compliance checklist
+![Top 3 Evidence](evidence/screenshots/capstone_top3.png)
 
-2) **Kali Baseline + Log Audit Pack**  
-   `../02_Isletim_Sistemleri/`  
-   - Users/sudo proof, services/ports snapshot, journald sudo events
+## Mini SOC scenario (simple)
+- **Signal:** suspicious login failures + unusual connections
+- **Triage:** check auth/sudo evidence + services/ports baseline
+- **Network:** validate DNS/TLS patterns from baseline capture
+- **Controls:** map threats → risks → mitigations → evidence
+- **Output:** a small script/report proves repeatability
 
-3) **Wireshark Baseline + DNS/TLS Evidence Pack**  
-   `../04_Bilgisayar_Aglari/`  
-   - PCAP baseline + DNS filter + TLS handshake proof
-
-**Bonus (Automation):**  
-`../05_Programlama_1/` — C Log Analyzer → CSV output
-
----
-
-## Skills demonstrated (keywords)
-- Evidence packaging, documentation discipline
-- Risk thinking (threat → risk → control → proof)
-- Linux audit basics (services/ports/logs)
-- Network protocol visibility (DNS/TLS)
-- C fundamentals (file I/O, parsing, CSV reporting)
-
----
-
-## Index (all Semester 1 packs)
-- `../01_Hukuk_GRC/`
-- `../02_Isletim_Sistemleri/`
-- `../03_Siber_Guvenlige_Giris/`
-- `../04_Bilgisayar_Aglari/`
-- `../05_Programlama_1/`
+## Pack structure
+- `plan.md` — scope & success criteria
+- `steps.md` — how to replay the story in 5–10 minutes
+- `report.md` — executive summary for HR
+- `evidence/` — screenshots + artifacts
