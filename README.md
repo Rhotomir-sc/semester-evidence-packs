@@ -6,8 +6,6 @@
 **Mini SOC Investigation Pack (Semester 1 Executive Summary)**  
 ➡️ [Open Capstone](./99_Semester_Capstone/)
 
-![Top 3 Evidence](./99_Semester_Capstone/evidence/screenshots/capstone_top3.png)
-
 ---
 
 ## What this repository is
