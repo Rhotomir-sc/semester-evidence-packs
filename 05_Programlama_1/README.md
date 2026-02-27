@@ -1,5 +1,7 @@
 # Programming 1 (C) — Evidence Pack
 
+⬅️ Back to Capstone: [99_Semester_Capstone](../99_Semester_Capstone/)
+
 ## Mini-Lab
 **C Log Analyzer → CSV Report (File I/O + Struct + Parsing)**
 
