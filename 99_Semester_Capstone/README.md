@@ -21,6 +21,7 @@ OS baseline + network observations + threat/risk thinking + compliance mindset +
 - **Output:** a small script/report proves repeatability
 
 ## Pack structure
+- `evidence/artifacts/capstone_case_note.md` — short investigation-style case note
 - `plan.md` — scope & success criteria
 - `steps.md` — how to replay the story in 5–10 minutes
 - `report.md` — executive summary for HR
