@@ -2,8 +2,6 @@
 
 # Fall 2025–2026 — Evidence Packs (SUBÜ Cybersecurity)
 
-## ⭐ Capstone (Start here)
-
 ![Top 3 Evidence](./99_Semester_Capstone/evidence/screenshots/capstone_top3.png)
 
 This repository contains my practical evidence packs from the Fall 2025–2026 semester in the Cybersecurity program at SUBÜ (Associate Degree).
