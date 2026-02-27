@@ -3,7 +3,6 @@
 # Fall 2025–2026 — Evidence Packs (SUBÜ Cybersecurity)
 
 ## ⭐ Capstone (Start here)
-[Mini SOC Investigation Pack](./99_Semester_Capstone/)
 
 ![Top 3 Evidence](./99_Semester_Capstone/evidence/screenshots/capstone_top3.png)
 
