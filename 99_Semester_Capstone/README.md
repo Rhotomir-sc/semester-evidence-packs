@@ -5,11 +5,11 @@ Combine Semester 1 evidence packs into a single HR-friendly “incident-style”
 OS baseline + network observations + threat/risk thinking + compliance mindset + a small automation output.
 
 ## Start here (Top 3 Evidence)
-1) ⚖️ IT Law / GRC pack: `../01_Hukuk_GRC/`
-2) 🐧 Operating Systems pack: `../02_Isletim_Sistemleri/`
-3) 🌐 Computer Networks pack: `../04_Bilgisayar_Aglari/`
+1) ⚖️ IT Law / GRC pack: [01_Hukuk_GRC](../01_Hukuk_GRC/)
+2) 🐧 Operating Systems pack: [02_Isletim_Sistemleri](../02_Isletim_Sistemleri/)
+3) 🌐 Computer Networks pack: [04_Bilgisayar_Aglari](../04_Bilgisayar_Aglari/)
 
-**Bonus:** ⌨️ Programming pack: `../05_Programlama_1/`
+**Bonus:** ⌨️ Programming pack: [05_Programlama_1](../05_Programlama_1/)
 
 ![Top 3 Evidence](evidence/screenshots/capstone_top3.png)
 
