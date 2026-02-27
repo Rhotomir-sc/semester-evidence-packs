@@ -1,4 +1,4 @@
-![Cover](./assets/cover.png)
+[![Cover](./assets/cover.png)
 
 # Fall 2025–2026 — Evidence Packs (SUBÜ Cybersecurity)
 
@@ -26,3 +26,4 @@ For each course, I built a small mini-lab and documented it in a clear structure
 [Mini SOC Investigation Pack](./99_Semester_Capstone/)
 
 A small incident-style case that combines OS logs + network observations + threat thinking + risk/controls + a simple script output.
+](https://github.com/Rhotomir-sc/semester-evidence-packs/blob/main/README.md)
