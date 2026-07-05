@@ -1,37 +1,35 @@
-![Cover](./assets/cover.png)
+# Semester Evidence Packs
 
-# Fall 2025–2026 — Evidence Packs (SUBÜ Cybersecurity)
+This repository contains academic evidence packs from my Information Security Technology coursework.
 
-## ⭐ Capstone (Start here)
-**Mini SOC Investigation Pack (Semester 1 Executive Summary)**  
-➡️ [Open Capstone](./99_Semester_Capstone/)
-
----
-
-## What this repository is
-A compact, HR-friendly portfolio of **Semester 1** work in SUBÜ Cybersecurity (Associate Degree).  
-Each course is packaged as an evidence pack:
-
-**plan → steps → report → evidence (screenshots/artifacts)**
+I use this repository to document selected university work in a structured and reviewable way.  
+Each evidence pack is organized to show the course context, what I worked on, what I learned, and what kind of proof or output was produced.
 
 ---
 
-## Evidence Packs (Semester 1)
-1) ⚖️ **Information Systems Law (IT Law & Compliance)** — [01_Hukuk_GRC](./01_Hukuk_GRC/)  
-2) 🐧 **Operating Systems (Kali Linux)** — [02_Isletim_Sistemleri](./02_Isletim_Sistemleri/)  
-3) 🛡️ **Introduction to Cybersecurity** — [03_Siber_Guvenlige_Giris](./03_Siber_Guvenlige_Giris/)  
-4) 🌐 **Computer Networks** — [04_Bilgisayar_Aglari](./04_Bilgisayar_Aglari/)  
-5) ⌨️ **Programming 1 (C)** — [05_Programlama_1](./05_Programlama_1/)
+## Purpose of This Repository
+
+This repository answers one main question:
+
+> What did I do at school, and how did I document my academic cybersecurity-related work?
+
+The goal is to keep my university work organized as evidence packs instead of leaving assignments, notes, and screenshots scattered across different places.
+
+This repository is designed for:
+
+- Academic evidence
+- Course-based learning outputs
+- Student-level technical documentation
+- Cybersecurity-related coursework
+- Semester-based progress tracking
 
 ---
 
-## Reviewer guide (30 seconds)
-1) Open **Capstone** → [99_Semester_Capstone](./99_Semester_Capstone/)  
-2) Click **Top 3 Evidence** links  
-3) Skim one pack’s `report.md` for outcomes + proof
+## Repository Structure
 
----
-
-## Notes
-- Some artifacts (e.g., **PCAP**) may be large and not previewable on GitHub; use **View raw** to download.
-- Lecture PDFs are not uploaded (copyright-safe); only summaries + outputs are included.
+```text
+semester-evidence-packs/
+├── semester-1/
+├── semester-2/
+├── README.md
+└── LICENSE
