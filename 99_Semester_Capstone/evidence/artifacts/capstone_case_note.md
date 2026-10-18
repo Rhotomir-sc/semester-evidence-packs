@@ -11,11 +11,11 @@
 - Programming pack: CSV output as repeatable reporting proof
 
 ## Evidence links
-- `../../01_Hukuk_GRC/`
-- `../../02_Isletim_Sistemleri/`
-- `../../03_Siber_Guvenlige_Giris/`
-- `../../04_Bilgisayar_Aglari/`
-- `../../05_Programlama_1/`
+- [01_Hukuk_GRC](../../../01_Hukuk_GRC/README.md)
+- [02_Isletim_Sistemleri](../../../02_Isletim_Sistemleri/README.md)
+- [03_Siber_Guvenlige_Giris](../../../03_Siber_Guvenlige_Giris/README.md)
+- [04_Bilgisayar_Aglari](../../../04_Bilgisayar_Aglari/README.md)
+- [05_Programlama_1](../../../05_Programlama_1/README.md)
 
 ## Result
 A single entry point that connects Semester 1 evidence packs into an investigation-style flow.

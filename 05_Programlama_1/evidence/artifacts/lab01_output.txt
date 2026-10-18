@@ -6,4 +6,4 @@ sudo_ok,1
 sudo_blocked,1
 scan_detected,1
 suspicious_ip_hits,5
-ioc_failed_login_burst,true
+failed_login_threshold_exceeded,true

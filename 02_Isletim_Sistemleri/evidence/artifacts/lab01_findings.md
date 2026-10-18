@@ -1,7 +1,7 @@
 # Findings — Kali Baseline + Log Audit
 
 ## Observations
-- **User / groups:** user `aykan` is part of `sudo` and `users` groups (least-privilege baseline confirmed).
+- **User / groups:** user `aykan` is part of `sudo` and `users` groups (privileged group membership observed; this alone does not establish least privilege).
 - **Sudo capability:** `sudo -l` confirms the user can execute commands as root (expected for lab admin user).
 - **Running services (notable):**
   - `NetworkManager` (network management)

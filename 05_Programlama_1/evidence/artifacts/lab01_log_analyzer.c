@@ -81,8 +81,8 @@ int main(void) {
     fprintf(out, "scan_detected,%d\n", scan_detected);
     fprintf(out, "suspicious_ip_hits,%d\n", suspicious_ip_hits);
 
-    // Simple “IOC flag” (failed login burst >=3)
-    fprintf(out, "ioc_failed_login_burst,%s\n", (login_fail >= 3) ? "true" : "false");
+    // File-wide threshold only; no timing or per-identity burst detection.
+    fprintf(out, "failed_login_threshold_exceeded,%s\n", (login_fail >= 3) ? "true" : "false");
 
     fclose(out);
 

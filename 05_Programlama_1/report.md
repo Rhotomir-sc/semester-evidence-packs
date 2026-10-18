@@ -20,7 +20,7 @@
 - Total events: **10**
 - login_fail: **6**
 - suspicious_ip_hits: **5**
-- IOC flag: **true** (failed-login burst)
+- File-wide failed-login threshold exceeded: **true** (count only; no time-window analysis)
 
 ## What I learned (HR-friendly)
 - How to parse and validate structured text input in C (fgets/sscanf approach).

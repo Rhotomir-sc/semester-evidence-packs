@@ -1,35 +1,20 @@
 # Semester Evidence Packs
 
-This repository contains academic evidence packs from my Information Security Technology coursework.
+Academic work from my Information Security Technology coursework, organized as reviewable evidence packs.
+Each pack connects a plan, procedure, result, and supporting artifact. The folders below reflect the actual course-based layout.
 
-I use this repository to document selected university work in a structured and reviewable way.  
-Each evidence pack is organized to show the course context, what I worked on, what I learned, and what kind of proof or output was produced.
+| Area | Start here | Inspectable artifact |
+|---|---|---|
+| Law and GRC | [Course pack](01_Hukuk_GRC/README.md) | [Risk register](01_Hukuk_GRC/evidence/artifacts/02_risk_register.csv) |
+| Operating systems | [Course pack](02_Isletim_Sistemleri/README.md) | [Linux baseline findings](02_Isletim_Sistemleri/evidence/artifacts/lab01_findings.md) |
+| Security foundations | [Course pack](03_Siber_Guvenlige_Giris/README.md) | [Threat model](03_Siber_Guvenlige_Giris/artifacts/lab01_threat_model.md) |
+| Networks | [Course pack](04_Bilgisayar_Aglari/README.md) | [Packet filters and findings](04_Bilgisayar_Aglari/evidence/artifacts/lab01_filters_and_findings.md) |
+| Programming | [Course pack](05_Programlama_1/README.md) | [C log analyzer](05_Programlama_1/evidence/artifacts/lab01_log_analyzer.c) |
+| Semester capstone | [Mini SOC overview](99_Semester_Capstone/README.md) | [Case note](99_Semester_Capstone/evidence/artifacts/capstone_case_note.md) |
 
----
+[Reproduce the C analyzer](05_Programlama_1/steps.md) · [Evidence improvement checklist](EVIDENCE-REVIEW.md)
 
-## Purpose of This Repository
+## Scope
+This is student coursework and lab documentation. Scenario narratives and sample logs are educational material. Source files and generated results support the reports; screenshots supplement them.
 
-This repository answers one main question:
-
-> What did I do at school, and how did I document my academic cybersecurity-related work?
-
-The goal is to keep my university work organized as evidence packs instead of leaving assignments, notes, and screenshots scattered across different places.
-
-This repository is designed for:
-
-- Academic evidence
-- Course-based learning outputs
-- Student-level technical documentation
-- Cybersecurity-related coursework
-- Semester-based progress tracking
-
----
-
-## Repository Structure
-
-```text
-semester-evidence-packs/
-├── semester-1/
-├── semester-2/
-├── README.md
-└── LICENSE
+Semester 2 is maintained separately in [semester-2-evidence-packs](https://github.com/Rhotomir-sc/semester-2-evidence-packs). It currently contains planned exercises, not completed evidence packs.
